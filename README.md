@@ -59,9 +59,9 @@ Further analysis will be performed using the control group (placebo group).
 
 <figure>
 
-![Metastatic Sites](./outputs/change_in_sites_stack_bar.jpeg)
+![Metastatic Sites](./images/dashboard_example.png)
 
-<figcaption>Fig.7 - Metastatic Sites Changes versus Initial Mouse Weight</figcaption>
+<figcaption>Fig.1 - Drug Treatment Dashboard (DRAFT)</figcaption>
 </figure>
 <hr>
 

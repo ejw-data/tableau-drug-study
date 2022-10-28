@@ -39,8 +39,9 @@ This repo includes a tableau analysis of a drug efficacy study comparing the eff
 <br>  
 
 ## Setup and Installation  
-1. Open the `DrugTreatments_v2022.1.twbx` in Tableau
-1. Data can be found in the https://github.com/ejw-data/matplotlib-drug-eval repo.  
+1. Open the `DrugTreatments_v2022.1.twbx` in Tableau  
+1. The dashboad can be view on Tableau Public at https://public.tableau.com/views/DrugTreatments/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link  
+1. Data can be found in the https://github.com/ejw-data/matplotlib-drug-eval repo.    
 
 
 
